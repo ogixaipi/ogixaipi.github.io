@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogixaipi.github.io/RFo/sitemap_index.txt
+Sitemap: https://ogixaipi.github.io/tKu/sitemap_index.txt
+Sitemap: https://ogixaipi.github.io/yMl/sitemap_index.txt
+Sitemap: https://ogixaipi.github.io/yfw/sitemap_index.txt
